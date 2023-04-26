@@ -1,22 +1,38 @@
+/**
+ * @author Nguyễn Tiến Tài
+ * @created_at 26/04/2023
+ * @description Step 01 Drum kit
+ */
+
+//* Remove Transaction
 function removeTransition(e) {
-    if (e.propertyName != 'transform') return; // skip se non è una 'transform'
+    // If the property name is not 'transform', skip the function
+    if (e.propertyName != 'transform') return;
+    // Remove the 'playing' class from the element
     this.classList.remove('playing');
 }
+
+//* Play Sound
 function playSound(e) {
-    // Attenzione agli apici, quelli più esterni sono quelli sotto la tilde
-    // nella tastiera americana!
-    //
+    // Log the event object
+    // Select the audio element with the corresponding data-key attribute
     const audio = document.querySelector(`audio[data-key="${e.which}"]`);
+    // Select the key element with the corresponding data-key attribute
     const key = document.querySelector(`.key[data-key="${e.which}"]`);
-    if(!audio) return; // esce non premi il tasto giusto
-    audio.currentTime = 0; // riavvia il file audio da capo. se premi ripetutamente un tasto corrispondente ad un audio con qualche secondo di silenzio alla fine l'effetto è che sembra che salti qualche pressione perchè non viene eseguito finchè non termina. così si evita questo.
-    audio.play(); // esegue il file audio
+    // If there is no audio element, exit the function
+    if(!audio) return; 
+    // Set the current time of the audio element to 0
+    audio.currentTime = 0;
+    // Play the audio element
+    audio.play(); 
+    // Add the 'playing' class to the key element
     key.classList.add('playing');
 }
+
+//* Add event listeners
 const keys = document.querySelectorAll('.key');
-// Keys è una lista di nodi, non è un array, non posso usare for/in
-// for (var key in keys) {
-//     key.classList.remove('playing');
-// }
+// For each key element, add an event listener for the 'transitionend' event
 keys.forEach(key => key.addEventListener('transitionend', removeTransition));
+// Add an event listener for the 'keydown' event on the window object
 window.addEventListener('keydown', playSound);
+

@@ -12,6 +12,9 @@
 
 ## 1. Nguyễn Tiến Tài ( Maintanin 🚩).
 
+## 01. DrumKit
+<img src="https://res.cloudinary.com/taithinhnam/image/upload/v1682483808/Let%27s%20Code/7f636adf-7ec4-4a46-95fa-bbbe28fa59ed_h6jera.png" width="300">
+
 ## Tài Khoản Donate li Cf để có động lực code cho anh em tham khảo 😄😄.
 
 ![giphy](https://3.bp.blogspot.com/-SzGvXn2sTmw/V6k-90GH3ZI/AAAAAAAAIsk/Q678Pil-0kITLPa3fD--JkNdnJVKi_BygCLcB/s1600/cf10-fbc08%2B%25281%2529.gif)
