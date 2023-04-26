@@ -1,5 +1,3 @@
-# Study With Me Tai Heo Dev 30 Days of JS :fire:
-
 <p align="center"><a href="https://profile-forme.cf/" target="_blank"><img src="https://res.cloudinary.com/ecommerce2021/image/upload/v1659065987/avatar/logo_begsn1.png" width="300"></a></p>
 
 <p align="center">
@@ -9,7 +7,7 @@
 <a href = "mailto:nguyentientai10@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/send-mass-email.png" alt="License"></a>
 </p>
 
-## Study With Me: Backend Ecommerce
+## Study With Me Tai Heo Dev 30 Days of JS :fire:
 ## Team Word: Liên hệ công việc https://profile-forme.cf
 
 ## 1. Nguyễn Tiến Tài ( Maintanin 🚩).
