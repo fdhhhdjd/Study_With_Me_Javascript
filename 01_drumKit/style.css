@@ -1,0 +1,45 @@
+body {
+  background-image: url('img/israel-palacio-454387-unsplash.jpg');
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.keys {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+     align-content: center;
+}
+
+.key {
+    border: 4px solid black;
+    border-radius: 5px;
+
+    font-size: 1.5rem;
+    padding: 1rem .5rem;
+    margin: 1rem;
+    text-align: center;
+    transition: all 0.07s;
+    color: white;
+    background: rgba(0,0,0,0.4);
+    text-shadow: 0 0 5px black;
+}
+.playing {
+    transform: scale(1.1);
+    border-color: #ffc600;
+    bow-shadow: 0 0 10px #ffc600;
+}
+kbd {
+    display: block;
+    font-size: 40px;
+}
+.sound {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #ffc600;
+}

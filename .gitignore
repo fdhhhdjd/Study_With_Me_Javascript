@@ -1,0 +1,59 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Study 
+02_clock
+03_cssSlider
+04_array
+05_flexGallery
+06_ajaxType
+07_array2
+08_htmlCanvas
+09_devToolsTricks
+10_checkBoxes
+11_videoPlayer
+12_keySeqDet
+13_slideScroll
+14_copyVSreference
+15_localStorage
+16_shadownAndMouse
+17_sortWithArticle
+18_addingUpTimeWithReduce
+19_webCamFun
+20_speechRecognition
+21_geolocation
+22_followLink
+23_speechSynth
+24_stickyNav
+25_eventPropagation
+26_stripeFollowAlongNav
+27_clickAndDrag
+28_videoSpeedCtrl
+29_countDownTimer
+30_whackAMoleGame
+
