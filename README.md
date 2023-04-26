@@ -16,7 +16,7 @@ I'm a Full-Stack Web Developer 💻, Tearcher 🧑‍🏫!
 </p>
 
 ## Study With Me Tai Heo Dev 30 Days of JS :fire:
-## Team Word: Liên hệ công việc https://profile-forme.cf
+## Liên hệ công việc 💬: https://profile-forme.cf
 
 ## 1. Nguyễn Tiến Tài ( Maintanin 🚩).
 
