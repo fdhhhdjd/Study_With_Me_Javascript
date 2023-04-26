@@ -1,5 +1,13 @@
 <p align="center"><a href="https://profile-forme.cf/" target="_blank"><img src="https://res.cloudinary.com/ecommerce2021/image/upload/v1659065987/avatar/logo_begsn1.png" width="300"></a></p>
 
+<h3 align="center">
+Hi there, I'm <a href="https://profile-forme.cf/" target="_blank" rel="noreferrer">Tai Developer</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, Tearcher 🧑‍🏫!
+</h2>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/tai-nguyen-tien-787545213/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Linkedin"></a>
 <a href="https://profile-forme.surge.sh"><img src="https://img.icons8.com/color/48/000000/internet--v1.png" alt="Profile"></a>
