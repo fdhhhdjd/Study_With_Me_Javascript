@@ -13,7 +13,16 @@
 ## 1. Nguyễn Tiến Tài ( Maintanin 🚩).
 
 ## 01. DrumKit
-<img src="https://res.cloudinary.com/taithinhnam/image/upload/v1682483808/Let%27s%20Code/7f636adf-7ec4-4a46-95fa-bbbe28fa59ed_h6jera.png" width="300">
+<img src="https://res.cloudinary.com/taithinhnam/image/upload/v1682483808/Let%27s%20Code/7f636adf-7ec4-4a46-95fa-bbbe28fa59ed_h6jera.png" width="500">
+
+## 02. Clock
+<img src="https://res.cloudinary.com/taithinhnam/image/upload/v1682484321/Let%27s%20Code/z4296242607059_f7f3acf040b17d61071b8c994893e602_lrljfw.jpg" width="500">
+
+## 03. Css Slider
+<img src="https://res.cloudinary.com/taithinhnam/image/upload/v1682484323/Let%27s%20Code/z4296244273397_c575cb17abbd4c95946eaba5cc3fd89a_ia79ou.jpg" width="500">
+
+## 04. Array
+<p>In Processing</p>
 
 ## Tài Khoản Donate li Cf để có động lực code cho anh em tham khảo 😄😄.
 
