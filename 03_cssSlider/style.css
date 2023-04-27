@@ -1,0 +1,42 @@
+/**
+ * CSS con utilizzo delle variabili
+ */
+:root {
+    /* Dichiarazione di variabili */
+    --white: #FFF2F2;
+    --blue: #041726;
+    --yellow: #FFB042;
+    --sea: #4AC4B8;
+    --red: #E84054;
+    --spacing: 10px;
+    --blur: 10px;
+    --base: var(--yellow);
+}
+
+body {
+    background-color: var(--blue);
+    color: var(--white);
+/*     max-width: 100vh;
+max-height: 100vh; */
+    text-align: center;
+    font-family: 'helvetica neue', sans-serif;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+img {
+    /* Utilizzo di variabili */
+    max-width: 70%;
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
+    margin-bottom: 50px;
+}
+
+.h1 {
+    color: var(--base);
+}
+
+.controls {
+    margin-bottom: 50px;
+}
