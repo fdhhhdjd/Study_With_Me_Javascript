@@ -32,7 +32,7 @@ I'm a Full-Stack Web Developer 💻, Tearcher 🧑‍🏫!
 ## 04. Array
 Done
 
-## 05. flex Gallery
+## 05. Flex Gallery
 <img src="./assets/05.jpg" width="500">
 
 ## Tài Khoản Donate li Cf để có động lực code cho anh em tham khảo 😄😄.
