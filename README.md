@@ -30,7 +30,10 @@ I'm a Full-Stack Web Developer 💻, Tearcher 🧑‍🏫!
 <img src="https://res.cloudinary.com/taithinhnam/image/upload/v1682484323/Let%27s%20Code/z4296244273397_c575cb17abbd4c95946eaba5cc3fd89a_ia79ou.jpg" width="500">
 
 ## 04. Array
-In Processing
+Done
+
+## 05. flex Gallery
+<img src="./assets/05.jpg" width="500">
 
 ## Tài Khoản Donate li Cf để có động lực code cho anh em tham khảo 😄😄.
 
