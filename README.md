@@ -35,6 +35,10 @@ Done
 ## 05. Flex Gallery
 <img src="./assets/05.jpg" width="500">
 
+## 06. Ajax Type
+![image](https://github.com/fdhhhdjd/Study_With_Me_Javascript/assets/63393170/a52cabcc-bb83-49fa-a8d7-e02c4550072b)
+
+
 ## Tài Khoản Donate li Cf để có động lực code cho anh em tham khảo 😄😄.
 
 ![giphy](https://3.bp.blogspot.com/-SzGvXn2sTmw/V6k-90GH3ZI/AAAAAAAAIsk/Q678Pil-0kITLPa3fD--JkNdnJVKi_BygCLcB/s1600/cf10-fbc08%2B%25281%2529.gif)
